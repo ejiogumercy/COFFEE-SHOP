@@ -24,4 +24,32 @@ The goal of this project is to transform raw transaction data into a clear and i
 - Power BI – Interactive dashboard creation and visualization
 
 - Data Modeling – Organizing relationships between datasets for seamless analysis
+
+  ## Data Source
+  ###
+  The dataset for this analysis is obtained from a CSV file stored in Google Drive. It contains detailed transaction records, including:
+- Transaction details (ID, date, time, quantity)
+- Store information (ID, location)
+- Product details (ID, price, category, type, and specific item description)
+This structured dataset will serve as the foundation for data profiling, transformation, and visualization.
+
+## Skills Demonstrated in Data Cleaning
+### 
+- Handling missing values – Checking for and addressing missing or inconsistent data.
+- Standardizing formats – Ensuring consistency in date, time, and product category entries.
+- Removing duplicates – Identifying and eliminating redundant transaction records.
+- Validating data types – Ensuring numerical fields (e.g., unit price, quantity) are correctly formatted.
   
+##  Data Transformation
+### 
+To prepare the dataset for analysis, the following transformations were applied:
+- Datetime formatting – Converting transaction date and time into usable formats for time-based analysis.
+- Categorization – Grouping products into broader categories for high-level insights.
+- Derived metrics – Calculating total sales (quantity × unit price) and aggregating data by store location.
+- 
+
+  ##  Data Analysis & Visualization
+
+
+
+
