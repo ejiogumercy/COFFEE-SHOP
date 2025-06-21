@@ -1,6 +1,6 @@
 # Coffee Shop Sales Analysis
 
-![](coffee_shop_image.jp
+![](coffee_shop_image.jp)
 
 ## 📚 Table of Contents
 
@@ -8,9 +8,11 @@
 - [Problem Statement](#problem-statement)
 - [Project Goal](#project-goal)
 - [Tools Used](#tools-used)
-- [ ## Data Source]( ## Data-Source)
-- [Dashboard Preview](#dashboard-preview)
-- [Conclusion](#conclusion)
+- [ ## Data Source](#Data-Source)
+- [Skills Demonstrated in Data Cleaning](#Skills-Demonstrated-in-Data-Cleaning)
+- [Data Transformation](#Data-Transformation)
+- [Data Analysis & Visualization](#Data-Analysis-&-Visualization)
+- [Recommendations](#Recommendations)
 ## Introduction
 ### 
 In today’s competitive coffee industry, gaining a deep understanding of customer purchasing behavior is essential for driving sales and enhancing operational efficiency. This project analyzes transaction data from three coffee shop locations in New York City to uncover key patterns, trends, and business opportunities. By transforming raw sales data into an interactive, user-friendly dashboard, the project provides franchise owners with actionable insights to support data-driven decision-making and strategic growth.
