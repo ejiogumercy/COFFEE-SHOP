@@ -47,7 +47,7 @@ To prepare the dataset for analysis, the following transformations were applied:
 - Categorization – Grouping products into broader categories for high-level insights.
 - Derived metrics – Calculating total sales (quantity × unit price) and aggregating data by store location.
 
-  | UNTRANSFORMED COFFEE SHOP RAW DATA  ![](COFFEE_SHOP_UNTRANSFORMED_DATA.PNG)| TRANSFORMED COFFEE SHOP RAW DATA ![](COFFEE_SHOP_TRANSFORMED_DATA.PNG)|
+  UNTRANSFORMED COFFEE SHOP RAW DATA  ![](COFFEE_SHOP_UNTRANSFORMED_DATA.PNG)| TRANSFORMED COFFEE SHOP RAW DATA ![](COFFEE_SHOP_TRANSFORMED_DATA.PNG)
   
  | :--------------------------------------: | :-----------------------------: |
     ![](COFFEE_SHOP_UNTRANSFORMED_DATA.PNG)     ![](COFFEE_SHOP_TRANSFORMED_DATA.PNG)
@@ -56,5 +56,12 @@ To prepare the dataset for analysis, the following transformations were applied:
   ##  Data Analysis & Visualization
 
 
+###
+Using Excel Pivot Tables and Charts, key insights were derived:
+- Sales Trends: Identifying peak sales hours, daily and monthly sales variations.
+- Product Performance: Determining best-selling and underperforming products.
+- Store Comparisons: Evaluating sales distribution across different locations.
+- Customer Preferences: Analyzing popular product categories and price points.
+A dynamic dashboard was developed to present these insights interactively, allowing franchise owners to filter data by date, store location, and product category.
 
 
