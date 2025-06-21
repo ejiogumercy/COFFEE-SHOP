@@ -66,7 +66,7 @@ A dynamic dashboard was developed to present these insights interactively, allow
 ![COFFEE_SHOP_DASHBOARD1](coffeedashboaard1.PNG)
 ![COFFEE_SHOP_DASHBOARD2](coffeedashboard2.PNG)
 
-![](https://github.com/ejiogumercy/COFFEE-SHOP/blob/main/README.md#coffee-shop-sales-analysis)##  Recommendations
+##  Recommendations ![HOME](Coffee Shop Sales Analysis)
 ###
 Based on the analysis, the following recommendations were proposed:
 - Optimize Inventory Management: Adjust stock levels based on product demand trends.
