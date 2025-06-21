@@ -66,3 +66,11 @@ A dynamic dashboard was developed to present these insights interactively, allow
 ![COFFEE_SHOP_DASHBOARD1](coffeedashboaard1.PNG)
 ![COFFEE_SHOP_DASHBOARD2](coffeedashboard2.PNG)
 
+##  Recommendations
+###
+Based on the analysis, the following recommendations were proposed:
+- Optimize Inventory Management: Adjust stock levels based on product demand trends.
+- Improve Staffing Schedules: Allocate staff efficiently during peak sales hours.
+- Targeted Promotions: Offer discounts on slow-moving products to increase sales.
+- Enhance Product Offerings: Expand best-selling product lines while discontinuing low-performing items.
+
