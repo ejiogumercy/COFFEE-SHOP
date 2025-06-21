@@ -47,7 +47,7 @@ To prepare the dataset for analysis, the following transformations were applied:
 - Categorization – Grouping products into broader categories for high-level insights.
 - Derived metrics – Calculating total sales (quantity × unit price) and aggregating data by store location.
 
-  | UNTRANSFORMED COFFEE SHOP RAW DATA| TRANSFORMED COFFEE SHOP RAW DATA|
+  | UNTRANSFORMED COFFEE SHOP RAW DATA  ![](COFFEE_SHOP_UNTRANSFORMED_DATA.PNG)| TRANSFORMED COFFEE SHOP RAW DATA ![](COFFEE_SHOP_TRANSFORMED_DATA.PNG)|
   
  | :--------------------------------------: | :-----------------------------: |
     ![](COFFEE_SHOP_UNTRANSFORMED_DATA.PNG)     ![](COFFEE_SHOP_TRANSFORMED_DATA.PNG)
