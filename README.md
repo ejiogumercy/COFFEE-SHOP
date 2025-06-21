@@ -1,7 +1,16 @@
 # Coffee Shop Sales Analysis
 
-![](coffee_shop_image.jpg)
+![](coffee_shop_image.jp
 
+## 📚 Table of Contents
+
+- [Introduction](#introduction)
+- [Problem Statement](#problem-statement)
+- [Project Goal](#project-goal)
+- [Tools Used](#tools-used)
+- [ ## Data Source]( ## Data-Source)
+- [Dashboard Preview](#dashboard-preview)
+- [Conclusion](#conclusion)
 ## Introduction
 ### 
 In today’s competitive coffee industry, gaining a deep understanding of customer purchasing behavior is essential for driving sales and enhancing operational efficiency. This project analyzes transaction data from three coffee shop locations in New York City to uncover key patterns, trends, and business opportunities. By transforming raw sales data into an interactive, user-friendly dashboard, the project provides franchise owners with actionable insights to support data-driven decision-making and strategic growth.
@@ -49,9 +58,6 @@ To prepare the dataset for analysis, the following transformations were applied:
 
   UNTRANSFORMED COFFEE SHOP RAW DATA  ![](COFFEE_SHOP_UNTRANSFORMED_DATA.PNG)| TRANSFORMED COFFEE SHOP RAW DATA ![](COFFEE_SHOP_TRANSFORMED_DATA.PNG)
   
- | :--------------------------------------: | :-----------------------------: |
-    ![](COFFEE_SHOP_UNTRANSFORMED_DATA.PNG)     ![](COFFEE_SHOP_TRANSFORMED_DATA.PNG)
-  
 
   ##  Data Analysis & Visualization
 
@@ -66,11 +72,12 @@ A dynamic dashboard was developed to present these insights interactively, allow
 ![COFFEE_SHOP_DASHBOARD1](coffeedashboaard1.PNG)
 ![COFFEE_SHOP_DASHBOARD2](coffeedashboard2.PNG)
 
-##  Recommendations ![HOME](Coffee Shop Sales Analysis)
+##  Recommendations 
 ###
 Based on the analysis, the following recommendations were proposed:
 - Optimize Inventory Management: Adjust stock levels based on product demand trends.
 - Improve Staffing Schedules: Allocate staff efficiently during peak sales hours.
 - Targeted Promotions: Offer discounts on slow-moving products to increase sales.
 - Enhance Product Offerings: Expand best-selling product lines while discontinuing low-performing items.
+  
 
