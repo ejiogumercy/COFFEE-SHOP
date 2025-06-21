@@ -46,7 +46,10 @@ To prepare the dataset for analysis, the following transformations were applied:
 - Datetime formatting – Converting transaction date and time into usable formats for time-based analysis.
 - Categorization – Grouping products into broader categories for high-level insights.
 - Derived metrics – Calculating total sales (quantity × unit price) and aggregating data by store location.
-- 
+
+  | UNTRANSFORMED COFFEE SHOP RAW DATA                | TRANSFORMED COFFEE SHOP RAW DATA                |
+ |:---------------------------------------------------|------------------------------------------------:|
+ |
 
   ##  Data Analysis & Visualization
 
