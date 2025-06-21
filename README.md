@@ -17,16 +17,15 @@
 ### 
 In today’s competitive coffee industry, gaining a deep understanding of customer purchasing behavior is essential for driving sales and enhancing operational efficiency. This project analyzes transaction data from three coffee shop locations in New York City to uncover key patterns, trends, and business opportunities. By transforming raw sales data into an interactive, user-friendly dashboard, the project provides franchise owners with actionable insights to support data-driven decision-making and strategic growth.
 
-## Problem Statement 📚[](#introduction)
+## Problem Statement 📚[Introduction](#introduction)
 ### 
 How can a coffee shop franchise effectively analyze sales data across multiple locations to gain clear insights into customer preferences, peak sales periods, and best-performing products?
 Currently, the lack of a centralized analytics system makes it difficult to optimize inventory, staffing, and marketing strategies. This project addresses that challenge by leveraging data analytics to reveal key trends and drive operational improvements.
 
-## Project Goal📚[](#introduction)
-### 
+## Project Goal📚[Introduction](#introduction)
 The goal of this project is to transform raw transaction data into a clear and interactive dashboard that highlights customer purchasing behavior, sales trends, and product performance across three coffee shop locations in New York City. The dashboard will enable franchise owners to make data-driven decisions that enhance efficiency, optimize resources, and boost profitability.
 
-## Tools Used 📚[](#introduction)
+## Tools Used 📚[Introduction](#introduction)
 ### 
 - Microsoft Excel – Data cleaning and transformation
 
@@ -36,7 +35,7 @@ The goal of this project is to transform raw transaction data into a clear and i
 
 - Data Modeling – Organizing relationships between datasets for seamless analysis
 
-  ## Data Source 📚[](#introduction)
+  ## Data Source 📚[Introduction](#introduction)
   ###
   The dataset for this analysis is obtained from a CSV file stored in Google Drive. It contains detailed transaction records, including:
 - Transaction details (ID, date, time, quantity)
@@ -44,15 +43,15 @@ The goal of this project is to transform raw transaction data into a clear and i
 - Product details (ID, price, category, type, and specific item description)
 This structured dataset will serve as the foundation for data profiling, transformation, and visualization.
 
-## Skills Demonstrated in Data Cleaning 📚[](#introduction)
+## Skills Demonstrated in Data Cleaning 📚[Introduction](#introduction)
 ### 
 - Handling missing values – Checking for and addressing missing or inconsistent data.
 - Standardizing formats – Ensuring consistency in date, time, and product category entries.
 - Removing duplicates – Identifying and eliminating redundant transaction records.
 - Validating data types – Ensuring numerical fields (e.g., unit price, quantity) are correctly formatted.
   
-##  Data Transformation 📚[](#introduction)
-### 
+##  Data Transformation 📚[Introduction](#introduction)
+###
 To prepare the dataset for analysis, the following transformations were applied:
 - Datetime formatting – Converting transaction date and time into usable formats for time-based analysis.
 - Categorization – Grouping products into broader categories for high-level insights.
