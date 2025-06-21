@@ -62,5 +62,4 @@ Using Excel Pivot Tables and Charts, key insights were derived:
 - Store Comparisons: Evaluating sales distribution across different locations.
 - Customer Preferences: Analyzing popular product categories and price points.
 A dynamic dashboard was developed to present these insights interactively, allowing franchise owners to filter data by date, store location, and product category.
-
-![](Coffeedashboard1.png)  ![](Coffeedashboard2.png)
+![COFFEE_DASHBOARD1](Coffeedashboard1.PNG)  ![COFFEE_DASHBOARD2](Coffeedashboard2.PNG)
