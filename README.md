@@ -17,15 +17,15 @@
 ### 
 In today’s competitive coffee industry, gaining a deep understanding of customer purchasing behavior is essential for driving sales and enhancing operational efficiency. This project analyzes transaction data from three coffee shop locations in New York City to uncover key patterns, trends, and business opportunities. By transforming raw sales data into an interactive, user-friendly dashboard, the project provides franchise owners with actionable insights to support data-driven decision-making and strategic growth.
 
-## Problem Statement 📚[Introduction](#introduction)
+## Problem Statement [📚](#Table-of-Contents)
 ### 
 How can a coffee shop franchise effectively analyze sales data across multiple locations to gain clear insights into customer preferences, peak sales periods, and best-performing products?
 Currently, the lack of a centralized analytics system makes it difficult to optimize inventory, staffing, and marketing strategies. This project addresses that challenge by leveraging data analytics to reveal key trends and drive operational improvements.
 
-## Project Goal📚[Introduction](#introduction)
+## Project Goal[📚](#introduction)
 The goal of this project is to transform raw transaction data into a clear and interactive dashboard that highlights customer purchasing behavior, sales trends, and product performance across three coffee shop locations in New York City. The dashboard will enable franchise owners to make data-driven decisions that enhance efficiency, optimize resources, and boost profitability.
 
-## Tools Used 📚[Introduction](#introduction)
+## Tools Used [📚](#introduction)
 ### 
 - Microsoft Excel – Data cleaning and transformation
 
@@ -35,7 +35,7 @@ The goal of this project is to transform raw transaction data into a clear and i
 
 - Data Modeling – Organizing relationships between datasets for seamless analysis
 
-  ## Data Source 📚[Introduction](#introduction)
+  ## Data Source [📚](#introduction)
   ###
   The dataset for this analysis is obtained from a CSV file stored in Google Drive. It contains detailed transaction records, including:
 - Transaction details (ID, date, time, quantity)
@@ -43,14 +43,14 @@ The goal of this project is to transform raw transaction data into a clear and i
 - Product details (ID, price, category, type, and specific item description)
 This structured dataset will serve as the foundation for data profiling, transformation, and visualization.
 
-## Skills Demonstrated in Data Cleaning 📚[Introduction](#introduction)
+## Skills Demonstrated in Data Cleaning [📚](#introduction)
 ### 
 - Handling missing values – Checking for and addressing missing or inconsistent data.
 - Standardizing formats – Ensuring consistency in date, time, and product category entries.
 - Removing duplicates – Identifying and eliminating redundant transaction records.
 - Validating data types – Ensuring numerical fields (e.g., unit price, quantity) are correctly formatted.
   
-##  Data Transformation 📚[Introduction](#introduction)
+##  Data Transformation [📚](#introduction)
 ###
 To prepare the dataset for analysis, the following transformations were applied:
 - Datetime formatting – Converting transaction date and time into usable formats for time-based analysis.
@@ -60,7 +60,7 @@ To prepare the dataset for analysis, the following transformations were applied:
   UNTRANSFORMED COFFEE SHOP RAW DATA  ![](COFFEE_SHOP_UNTRANSFORMED_DATA.PNG)| TRANSFORMED COFFEE SHOP RAW DATA ![](COFFEE_SHOP_TRANSFORMED_DATA.PNG)
   
 
-  ##  Data Analysis & Visualization 📚(#introduction)
+  ##  Data Analysis & Visualization [📚](#introduction)
 
 ###
 Using Excel Pivot Tables and Charts, key insights were derived:
@@ -73,7 +73,7 @@ A dynamic dashboard was developed to present these insights interactively, allow
 ![COFFEE_SHOP_DASHBOARD1](coffeedashboaard1.PNG)
 ![COFFEE_SHOP_DASHBOARD2](coffeedashboard2.PNG)
 
-##  Recommendations 📚[](#introduction)
+##  Recommendations [📚](#introduction)
 ###
 Based on the analysis, the following recommendations were proposed:
 - Optimize Inventory Management: Adjust stock levels based on product demand trends.
