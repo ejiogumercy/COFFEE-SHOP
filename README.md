@@ -36,7 +36,7 @@ The goal of this project is to transform raw transaction data into a clear and i
 
 - Data Modeling – Organizing relationships between datasets for seamless analysis
 
-  ## Data Source [📚](Coffee-Shop-Sales-Analysis)
+  ## Data Source[📚](#Coffee-Shop-Sales-Analysis)
   ###
   The dataset for this analysis is obtained from a CSV file stored in Google Drive. It contains detailed transaction records, including:
 - Transaction details (ID, date, time, quantity)
@@ -44,7 +44,7 @@ The goal of this project is to transform raw transaction data into a clear and i
 - Product details (ID, price, category, type, and specific item description)
 This structured dataset will serve as the foundation for data profiling, transformation, and visualization.
 
-## Skills Demonstrated in Data Cleaning [📚](Coffee-Shop-Sales-Analysis)
+## Skills Demonstrated in Data Cleaning[📚](#Coffee-Shop-Sales-Analysis)
 ### 
 - Handling missing values – Checking for and addressing missing or inconsistent data.
 - Standardizing formats – Ensuring consistency in date, time, and product category entries.
@@ -61,7 +61,7 @@ To prepare the dataset for analysis, the following transformations were applied:
   UNTRANSFORMED COFFEE SHOP RAW DATA  ![](COFFEE_SHOP_UNTRANSFORMED_DATA.PNG)| TRANSFORMED COFFEE SHOP RAW DATA ![](COFFEE_SHOP_TRANSFORMED_DATA.PNG)
   
 
-  ##  Data Analysis & Visualization [📚](Coffee-Shop-Sales-Analysis)
+  ##  Data Analysis & Visualization [📚](#Coffee-Shop-Sales-Analysis)
 
 ###
 Using Excel Pivot Tables and Charts, key insights were derived:
@@ -74,7 +74,7 @@ A dynamic dashboard was developed to present these insights interactively, allow
 ![COFFEE_SHOP_DASHBOARD1](coffeedashboaard1.PNG)
 ![COFFEE_SHOP_DASHBOARD2](coffeedashboard2.PNG)
 
-##  Recommendations [📚](Coffee-Shop-Sales-Analysis)
+##  Recommendations[📚](#Coffee-Shop-Sales-Analysis)
 ###
 Based on the analysis, the following recommendations were proposed:
 - Optimize Inventory Management: Adjust stock levels based on product demand trends.
