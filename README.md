@@ -55,7 +55,6 @@ To prepare the dataset for analysis, the following transformations were applied:
 
   ##  Data Analysis & Visualization
 
-
 ###
 Using Excel Pivot Tables and Charts, key insights were derived:
 - Sales Trends: Identifying peak sales hours, daily and monthly sales variations.
@@ -64,4 +63,4 @@ Using Excel Pivot Tables and Charts, key insights were derived:
 - Customer Preferences: Analyzing popular product categories and price points.
 A dynamic dashboard was developed to present these insights interactively, allowing franchise owners to filter data by date, store location, and product category.
 
-
+![](Coffeedashboard1.png)  ![](Coffeedashboard2.png)
