@@ -49,7 +49,8 @@ To prepare the dataset for analysis, the following transformations were applied:
 
   | UNTRANSFORMED COFFEE SHOP RAW DATA| TRANSFORMED COFFEE SHOP RAW DATA|
   
- |:-----------|------------:|
+ | :--------------------------------------: | :-----------------------------: |
+    ![](COFFEE_SHOP_UNTRANSFORMED_DATA.PNG)     ![](COFFEE_SHOP_TRANSFORMED_DATA.PNG)
   
 
   ##  Data Analysis & Visualization
