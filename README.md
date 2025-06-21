@@ -8,7 +8,7 @@
 - [Problem Statement](#problem-statement)
 - [Project Goal](#project-goal)
 - [Tools Used](#tools-used)
-- [#Data Source](#Data-Source)
+- [Data Source](#Data-Source)
 - [Skills Demonstrated in Data Cleaning](#Skills-Demonstrated-in-Data-Cleaning)
 - [Data Transformation](#Data-Transformation)
 - [Data Analysis & Visualization](#Data-Analysis-&-Visualization)
